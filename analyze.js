@@ -100,7 +100,7 @@ server.listen(port, hostname, () => {
 
   doc.fontSize(16);
   doc.moveDown();
-  doc.text("States", {
+  doc.text("Results", {
     width: 410,
     align: "left",
   });
