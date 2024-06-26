@@ -82,6 +82,10 @@ const profitFactor = Math.abs(totalProfit / totalLosses);
 const standardDeviation = Math.sqrt(totalVariance / numTrades);
 const sharpeRatio = averageReturn / standardDeviation;
 
+console.log("sharpeRatio", sharpeRatio);
+console.log("averageReturn", averageReturn);
+console.log("standardDeviation", standardDeviation);
+
 const hostname = "127.0.0.1";
 const port = 3000;
 
