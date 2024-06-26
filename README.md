@@ -14,7 +14,7 @@
    ```
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE -->
 ## Usage
 
 Print the PDF report
@@ -24,10 +24,14 @@ Print the PDF report
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Reference Information -->
 ## Reference Information
 https://mailchimp.com/marketing-glossary/roi/
+
 https://academy.binance.com/en/glossary/win-rate
+
 https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp
+
 https://www.investopedia.com/articles/fundamental-analysis/10/strategy-performance-reports.asp
+
 https://www.investopedia.com/articles/07/sharpe_ratio.asp
