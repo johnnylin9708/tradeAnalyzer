@@ -17,7 +17,7 @@
 <!-- USAGE -->
 ## Usage
 
-Print the PDF report
+Run in the command line, the report PDF file will be under the project
    ```sh
    node analyze.js
    ```
